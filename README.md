@@ -7,7 +7,7 @@ interceptor of message sent to RealTime Firebase Database
 
 * [Firebase](https://firebase.google.com/docs/)
 * [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/?hl=es-419) 
-* [https://firebase.google.com/docs/functions]
+* [Firebase Cloud Functions](https://firebase.google.com/docs/functions)
 
 
 ## Authors
